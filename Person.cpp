@@ -1,4 +1,4 @@
-# This file contains the implementation of the non-constructor methods of the header file 'Person.h'.
+# This file contains the implementation of methods of the header file 'Person.h' that are not constructors/destructors or getters and setters.
 # Author: Kevin Nhu
 # Date Last Modified: December 14, 2021
 

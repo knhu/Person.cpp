@@ -1,5 +1,4 @@
 # This file contains the implementation of the non-constructor methods of the header file 'Person.h'.
-
 # Author: Kevin Nhu
 # Date Last Modified: December 14, 2021
 

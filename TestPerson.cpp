@@ -1,3 +1,6 @@
+# This program serves as the driver program to test the header file Person.cpp
+# Author: Kevin Nhu
+# Date Last Modified: December 14, 2021
 #include "Person.h"
 #include <algorithm>
 #include <vector>
